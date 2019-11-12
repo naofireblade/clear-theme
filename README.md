@@ -26,8 +26,5 @@ Feel free to leave any feedback [here](https://github.com/naofireblade/clear-the
 - [Graph Card](https://github.com/kalkih/mini-graph-card)
 - [Slim Header](https://github.com/maykar/compact-custom-header/)
 
-## Known problems
-- Text in the logbook is barely readable (not fixable at the moment)
-
 ## Attributions
 - Background Image from [visme](https://visme.co/blog/simple-backgrounds/)
