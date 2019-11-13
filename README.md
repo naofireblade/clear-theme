@@ -6,7 +6,7 @@ This is a theme for [Home Assistant](https://www.home-assistant.io/). You can in
 
 ## Installation
 
-1. Copy the folders `themes` and `www` into your home-assistant folder
+1. Copy the folder `themes` into your home-assistant folder
 2. Add this under the section `frontend` in your `config.yaml`:
     ```
     frontend:
@@ -28,6 +28,11 @@ This is a theme for [Home Assistant](https://www.home-assistant.io/). You can in
 1. none  
 
 > Feel free to leave any feedback [here](https://github.com/naofireblade/clear-theme/issues).
+
+## Donations
+If you like this theme, I would be forever grateful for your support:
+
+<a href="https://www.buymeacoffee.com/2D1nUuK36" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 
 ## Attributions
 - Background Image from [visme](https://visme.co/blog/simple-backgrounds/)
