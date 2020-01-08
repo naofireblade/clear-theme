@@ -25,7 +25,8 @@ This is a theme for [Home Assistant](https://www.home-assistant.io/). You can in
 - [Slim Header](https://github.com/maykar/compact-custom-header/)
 
 ## Known issues
-1. none  
+1. Recorder throws error when saving the theme because of the embedded background image  
+ **Solution:** Download the [background image](https://github.com/naofireblade/clear-theme/raw/master/www/clear.jpg), place into folder `/www/` and change the 3rd line in the file `themes/clear.yaml` to `  lovelace-background: 'center / cover no-repeat url(/local/clear.jpg) fixed'`
 
 > Feel free to leave any feedback [here](https://github.com/naofireblade/clear-theme/issues).
 
