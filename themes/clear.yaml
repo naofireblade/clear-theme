@@ -33,6 +33,8 @@ clear:
   disabled-text-color: 'var(--text-light-color)'
   paper-dialog-button-color: 'var(--text-color)'
   secondary-background-color: 'var(--background-color-2)'                         # Background more info title
+  ha-dialog-border-radius: 5px
+  ha-card-border-radius: 5px
 
   # Icons
   paper-item-icon-color: 'var(--text-light-color)'                                # Off
